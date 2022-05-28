@@ -13,12 +13,12 @@
 </h5>
 <br>
 <p align="center">
-  Hi, my name is Lautaro.
+  Hi, my name is Nico.
   <br>
   <br>
   🔬 I am currently studying Computer Engineering at the University of Buenos Aires.
   <br>
-  📚 I’m currently working @ <a href="https://bairesrp.net/" title="bairesroleplay">bairesroleplay</a>
+  📚 I’m currently working @ <a href="https://valhallrp.live/" title="Valhalla Rp">valhallarp</a>
   <br>
 </p>
 
